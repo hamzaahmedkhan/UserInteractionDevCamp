@@ -78,72 +78,77 @@ Create separate activity for each Task.
 ** 4.1: Clickable images **
 
 What you'll learn
-    How to use an image as an interactive element to perform an action.
-    How to set attributes for ImageView elements in the layout editor.
-    How to add an onClick() method to display a Toast message.
+..* How to use an image as an interactive element to perform an action.
+..* How to set attributes for ImageView elements in the layout editor.
+..* How to add an onClick() method to display a Toast message.
+
 What you'll do
-    Create a new Android Studio project for a mock dessert-ordering app that uses images as interactive elements.
-    Set onClick() handlers for the images to display different Toast messages.
-    Change the floating action button supplied by the template so that it shows a different icon and launches another Activity.
+..* Create a new Android Studio project for a mock dessert-ordering app that uses images as interactive elements.
+..* Set onClick() handlers for the images to display different Toast messages.
+..* Change the floating action button supplied by the template so that it shows a different icon and launches another Activity.
 
 
 
 ** 4.2: Input controls **
 
 What you'll learn
-    How to change the input methods to enable suggestions, auto-capitalization, and password obfuscation.
-    How to change the generic on-screen keyboard to a phone keypad or other specialized keyboards.
-    How to add radio buttons for the user to select one item from a set of items.
-    How to add a spinner to show a drop-down menu with values, from which the user can select one.
+..* How to change the input methods to enable suggestions, auto-capitalization, and password obfuscation.
+..* How to change the generic on-screen keyboard to a phone keypad or other specialized keyboards.
+..* How to add radio buttons for the user to select one item from a set of items.
+..* How to add a spinner to show a drop-down menu with values, from which the user can select one.
+    
 What you'll do
-    Show a keyboard for entering an email address.
-    Show a numeric keypad for entering phone numbers.
-    Allow multiple-line text entry with automatic sentence capitalization.
-    Add radio buttons for selecting an option.
-    Set an onClick handler for the radio buttons.
-    Add a spinner for the phone number field for selecting one value from a set of values.
+..* Show a keyboard for entering an email address.
+..* Show a numeric keypad for entering phone numbers.
+..* Allow multiple-line text entry with automatic sentence capitalization.
+..* Add radio buttons for selecting an option.
+..* Set an onClick handler for the radio buttons.
+..* Add a spinner for the phone number field for selecting one value from a set of values.
 
 
 
 ** 4.3: Menus and pickers **
 
 What you'll learn
-    How to add menu items to the options menu.
-    How to add icons for items in the options menu.
-    How to set menu items to show in the app bar.
-    How to add click handlers for menu items.
-    How to add a dialog for an alert.
-    How to add the date picker.
+..* How to add menu items to the options menu.
+..* How to add icons for items in the options menu.
+..* How to set menu items to show in the app bar.
+..* How to add click handlers for menu items.
+..* How to add a dialog for an alert.
+..* How to add the date picker.
+
 What you'll do
-    Continue adding features to the Droid Cafe project from the previous practical.
-    Add menu items to the options menu.
-    Add icons for menu items to appear in the app bar.
-    Connect menu-item clicks to event handlers that process the click events.
-    Use an alert dialog to request a user's choice.
-    Use a date picker for date input.
+..* Continue adding features to the Droid Cafe project from the previous practical.
+..* Add menu items to the options menu.
+..* Add icons for menu items to appear in the app bar.
+..* Connect menu-item clicks to event handlers that process the click events.
+..* Use an alert dialog to request a user's choice.
+..* Use a date picker for date input.
 
 
 
 ** 4.4: User navigation **
 
 What you'll learn
-    How to add the Up button to the app bar.
-    How to set up an app with tab navigation and swipe views.
+..* How to add the Up button to the app bar.
+..* How to set up an app with tab navigation and swipe views.
+
 What you'll do
-    Continue adding features to the Droid Cafe project from the previous practical.
-    Provide the Up button in the app bar to navigate up to the parent Activity.
-    Create a new app with tabs for navigating Activity screens that can also be swiped.
+..* Continue adding features to the Droid Cafe project from the previous practical.
+..* Provide the Up button in the app bar to navigate up to the parent Activity.
+..* Create a new app with tabs for navigating Activity screens that can also be swiped.
 
 
 
 ** 4.5: RecyclerView **
 
 What you'll learn
-    How to use the RecyclerView class to display items in a scrollable list.
-    How to dynamically add items to the RecyclerView as they become visible through scrolling.
-    How to perform an action when the user taps a specific item.
-    How to show a FAB and perform an action when the user taps it.
+..* How to use the RecyclerView class to display items in a scrollable list.
+..* How to dynamically add items to the RecyclerView as they become visible through scrolling.
+..* How to perform an action when the user taps a specific item.
+..* How to show a FAB and perform an action when the user taps it.
+
 What you'll do
-    Create a new app that uses a RecyclerView to display a list of items as a scrollable list and associate click behavior with the list items.
-    Use a FAB to let the user add items to the RecyclerView.
+..* Create a new app that uses a RecyclerView to display a list of items as a scrollable list and associate click behavior with the list items.
+..* Use a FAB to let the user add items to the RecyclerView.
 
