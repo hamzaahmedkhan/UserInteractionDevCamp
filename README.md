@@ -1,10 +1,11 @@
 # UserInteractionDevCamp
 This project is for Android DevCamp Unit 2: User Experience, Lesson 4: User Interaction
 
+[Article Link](https://medium.com/@hamzaahmedkhan/android-user-interaction-215004476887) 
+[Slides Link](https://docs.google.com/presentation/d/1euBgVZkBx5YnlQpC6mQqEfu05J3ecbMXGozNkBawnhI/edit#slide=id.g6d2a5c9ae1_0_139)
+
 <img src='images/sc2.png' height=480 width=240 />           <img src='images/sc1.png' height=480 width=240 />
 
-
-[Slides](https://docs.google.com/presentation/d/1euBgVZkBx5YnlQpC6mQqEfu05J3ecbMXGozNkBawnhI/edit#slide=id.g6d2a5c9ae1_0_139)
 
 ## Unit 2 - Lesson: 4 User Interaction
 We can follow Android Fundamental Training Unit 2 - Lesson: 4 User Interaction
